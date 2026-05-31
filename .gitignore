@@ -1,0 +1,13 @@
+# Compiled output
+*.exe
+*.o
+*.obj
+*.ilk
+*.pdb
+
+# VS Code
+.vscode/
+
+# Build folders
+build/
+bin/
